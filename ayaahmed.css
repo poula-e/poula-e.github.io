@@ -14,7 +14,7 @@ body {
   padding: 0;
   font-family: Arial, sans-serif;
   }
-  ul {
+  ul.head {
     list-style: none;
     background: black;
     text-align: center;

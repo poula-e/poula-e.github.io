@@ -4,7 +4,7 @@
     background-image: url("aya a/WhatsApp Image 2024-04-25 at 4.55.42 PM.jpeg");
     --text-color: black ;
     --icon-color: #fff;
-    ul {
+    ul.head {
         list-style: none;
         background: #333;
         text-align: center;
